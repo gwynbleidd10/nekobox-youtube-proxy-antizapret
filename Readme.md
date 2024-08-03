@@ -6,7 +6,7 @@
 - [`antizapret.srs`](https://github.com/savely-krasovsky/antizapret-sing-box/releases/latest/download/antizapret.srs)
 - [`geoip.db`](https://github.com/savely-krasovsky/antizapret-sing-box/releases/latest/download/geoip.db)
 - [`geosite.db`](https://github.com/savely-krasovsky/antizapret-sing-box/releases/latest/download/geosite.db)
-3. Загрузить актуальный конфиг маршрутов из [репозитория](https://github.com/gwynbleidd10/nekobox-youtube-proxy-antizapret/blob/main/Default)
+3. Загрузить актуальный конфиг маршрутов из [репозитория](https://github.com/gwynbleidd10/nekobox-youtube-proxy-antizapret/blob/main/Default) и закинуть в папку `/config/routes_box` с заменой
 4. На всякий случай сделан бекап первых 2 пунктов в папке `backup`
 
 ## Добавление серверов/подписок
